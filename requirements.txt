@@ -1,0 +1,7 @@
+pytest
+
+pip_services3_commons
+pip_services3_rpc
+
+# service-beacons-python
+git+https://github.com/pip-services-samples/service-beacons-python.git
